@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning frontend web development
 - 💞️ I’m looking to collaborate on projects with upcoming and  experienced devs
-- 📫 How to reach me ...
+- 📫 You can reach me on my email: miriamudefi@gmail.com
 
 <!---
 Nnenna-udefi/Nnenna-udefi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
