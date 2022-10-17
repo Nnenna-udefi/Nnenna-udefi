@@ -3,6 +3,7 @@
 - 💞️ I’m looking to collaborate on projects with upcoming and  experienced devs
 - 📫 You can reach me on my email: miriamudefi@gmail.com
 - Here's my portfolio: https://nnennaudefiportfolio.vercel.app/
+- My Replit profile link: https://replit.com/@NnennaUdefi
 
 <!---
 Nnenna-udefi/Nnenna-udefi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
