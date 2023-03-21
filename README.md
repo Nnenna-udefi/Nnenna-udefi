@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nnenna-udefi
-- 👀 I’m into web development
+- 👀 I’m into Software Engineering 
 - 💞️ I’m looking to collaborate on projects with upcoming and  experienced devs
 - 📫 You can reach me on my email: miriamudefi@gmail.com
 - Here's my portfolio: https://nnennaudefiportfolio.vercel.app/
