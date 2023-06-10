@@ -39,6 +39,9 @@
 ## Cloud
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+## Most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nnenna-udefi&layout=donut)](https://github.com/Nnenna-udefi/github-readme-stats)
 <!---
 Nnenna-udefi/Nnenna-udefi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
