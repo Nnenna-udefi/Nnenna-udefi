@@ -2,7 +2,7 @@
 - 👀 I’m into Software Engineering 
 - 💞️ I’m looking to collaborate on projects with upcoming and  experienced devs
 - 📫 You can reach me on my email: miriamudefi@gmail.com
-- Here's my portfolio: https://nnennaudefiportfolio.vercel.app/
+- Here's my portfolio: https://nnennaudefi.vercel.app/
 - My Replit profile link: https://replit.com/@NnennaUdefi
 
 ## LANGUAGES
