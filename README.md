@@ -43,7 +43,7 @@
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nnenna-udefi&layout=donut&theme=dark)](https://github.com/Nnenna-udefi)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nnenna-udefi&layout=donut&theme=dark)](https://github.com/Nnenna-udefi)
 
 ## Stats
 ![Nnenna udefi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nnenna-udefi&show_icons=true&theme=dark)
