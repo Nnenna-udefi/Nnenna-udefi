@@ -43,10 +43,10 @@
 ![vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nnenna-udefi&layout=donut)](https://github.com/Nnenna-udefi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nnenna-udefi&layout=donut&theme=dark)](https://github.com/Nnenna-udefi)
 
 ## Stats
-![Nnenna udefi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nnenna-udefi&show_icons=true&bg_color=00000000)
+![Nnenna udefi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Nnenna-udefi&show_icons=true&theme=dark)
 <!---
 Nnenna-udefi/Nnenna-udefi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
